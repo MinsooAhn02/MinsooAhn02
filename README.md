@@ -11,12 +11,10 @@ B.S. in Computer Science, SUNY Korea (Stony Brook University) · Expected Decemb
 
 ## 🔨 Currently Working On
 
-> 🔒 Private repositories. The code is not public, but this is what I'm working on.
-
 | Project | Description | Status |
 |---|---|---|
 | 🔒 **Memory-Aware Egress Control for AI Agents** | CSE 310 team project (Team U&C). We study how an AI agent's memory can leak information, and decide with the team what counts as confidential data and when outbound traffic should be restricted. | ![In progress](https://img.shields.io/badge/-In%20progress-yellow) |
-| 🔒 **Haven** | Cloud security team project: an AWS-based record-sharing service, paired with a security inspection tool for operators. | ![Planning](https://img.shields.io/badge/-Planning-lightgrey) |
+| 🔒 **Haven** | Cloud security team project: an AWS-based record-sharing service, paired with a security inspection tool for operators. | ![In progress](https://img.shields.io/badge/-In%20progress-yellow) |
 
 Also learning: **kt cloud TECH UP**, Cybersecurity Training Cohort 3 (Sep 2026 – Apr 2027, expected).
 
@@ -36,15 +34,12 @@ A fine-tuned adapter can pass a default-prompt safety check and still behave dif
 | [**ZTA_architecture**](https://github.com/MinsooAhn02/ZTA_architecture) | Faculty-supervised Zero Trust research (CSE 487). I designed and ran 18 allow/deny tests across 5 threat categories on a local Kubernetes sandbox. | Kubernetes · Istio/Envoy · OPA · Keycloak |
 | [**MorningBriefing.AI**](https://github.com/MinsooAhn02/CSE_416_3pip) | Capstone (3-person team). A dashboard that puts a day's calendar, diary, and news in one place. I proposed the idea and owned the backend, auth, and security review. | React · TypeScript · Supabase |
 | [**Traffic Digital Twin**](https://github.com/MinsooAhn02/DigitalTwin) | Real-time CCTV vehicle detection and tracking on a live map (2-person team). I converted YOLO to a TensorRT engine; FP16 ran about 1.25× faster than PyTorch (CUDA) on the detection-and-tracking stage. | YOLO · TensorRT · OpenCV · FastAPI |
-| [**Portfolio site**](https://github.com/MinsooAhn02/MinsooAhn02.github.io) | My personal site with projects and research. | HTML |
 
 ## 🧰 Tech
 
 <p>
-  <img src="https://skillicons.dev/icons?i=c,py,java,ts,react,fastapi,docker,kubernetes,linux,mongodb,supabase&perline=11" alt="Tech stack">
+  <img src="https://skillicons.dev/icons?i=c,java,py,docker,kubernetes" alt="Tech stack">
 </p>
-
-Istio · OPA · Keycloak · TensorRT · OpenCV · Hugging Face
 
 ## 🎓 Background
 
