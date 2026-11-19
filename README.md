@@ -3,7 +3,8 @@
 <p align="center">
 Computer Science student studying the security of LLMs and AI agents.<br>
 My safety-evaluation paper was accepted at the NeurIPS 2026 FLMSec workshop, and I built a Zero Trust testbed on Kubernetes.<br>
-B.S. in Computer Science, SUNY Korea (Stony Brook University) · Expected December 2026
+B.S. in Computer Science, SUNY Korea (Stony Brook University) · Expected December 2026<br>
+Joining <b>IGLOO Corporation</b> (이글루코퍼레이션) Technical Support Center in December 2026.
 </p>
 
 <p align="center">
@@ -34,7 +35,7 @@ A fine-tuned adapter can pass a default-prompt safety check and still behave dif
 | 🔒 **Memory-Aware Egress Control for AI Agents** | CSE 310 team project (Team U&C). We study how an AI agent's memory can leak information, and decide with the team what counts as confidential data and when outbound traffic should be restricted. | ![In progress](https://img.shields.io/badge/-In%20progress-yellow) |
 | 🔒 **Haven** | Cloud security team project: an AWS-based record-sharing service, paired with a security inspection tool for operators. | ![In progress](https://img.shields.io/badge/-In%20progress-yellow) |
 
-Also learning: **kt cloud TECH UP**, Cybersecurity Training Cohort 3 (Sep 2026 – Apr 2027, expected).
+Previously: **kt cloud TECH UP**, Cybersecurity Training Cohort 3 (2026).
 
 ## 🧰 Tech
 
